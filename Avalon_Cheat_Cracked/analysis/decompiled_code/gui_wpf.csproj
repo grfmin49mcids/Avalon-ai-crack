@@ -1,0 +1,314 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>zx_4e23ae116b914ed3038933b7f1ed5f0e</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="themes\base\sizes.baml" />
+    <None Remove="menu\views\setup\twopc\ndipreview.baml" />
+    <None Remove="menu\views\main\games\robloxgameview.baml" />
+    <None Remove="menu\views\main\features\aimbot\aimbotview.baml" />
+    <None Remove="menu\views\setup\setupkindselection.baml" />
+    <None Remove="menu\views\setup\twopc\capturecardpreview.baml" />
+    <None Remove="fonts\figtree-medium.ttf" />
+    <None Remove="menu\views\main\features\input\inputdirectortab.baml" />
+    <None Remove="menu\views\main\games\overwatchgameview.baml" />
+    <None Remove="menu\views\setup\twopc\ndisourceselection.baml" />
+    <None Remove="menu\views\loadingview.baml" />
+    <None Remove="menu\controls\featurecardstyle.baml" />
+    <None Remove="themes\controls\contextmenustyles.baml" />
+    <None Remove="notes.txt" />
+    <None Remove="menu\views\main\games\battlefieldgameview.baml" />
+    <None Remove="themes\controls\viewtabstyles.baml" />
+    <None Remove="themes\controls\modalstyles.baml" />
+    <None Remove="menu\views\main\features\input\kmbprotab.baml" />
+    <None Remove="menu\controls\dialogs\hrefdialog.baml" />
+    <None Remove="menu\views\setup\twopc\capturecarddeviceselection.baml" />
+    <None Remove="fonts\figtree-bold.ttf" />
+    <None Remove="menu\controls\dialogs\acceptdialog.baml" />
+    <None Remove="menu\views\main\games\cs2gameview.baml" />
+    <None Remove="menu\views\main\features\input\kmnettab.baml" />
+    <None Remove="menu\controls\performancepanel.baml" />
+    <None Remove="menu\views\main\features\visualsview.baml" />
+    <None Remove="menu\controls\featureslider.baml" />
+    <None Remove="menu\controls\dialogs\restartdialog.baml" />
+    <None Remove="fonts\figtree-light.ttf" />
+    <None Remove="menu\views\setup\onepc\processselectionview.baml" />
+    <None Remove="menu\views\main\features\input\xppentab.baml" />
+    <None Remove="themes\controls\sliderstyles.baml" />
+    <None Remove="themes\controls\filepickerstyles.baml" />
+    <None Remove="themes\controls\loadingspinnerstyles.baml" />
+    <None Remove="resources\logo.png" />
+    <None Remove="menu\views\setup\twopc\calibrationdialog.baml" />
+    <None Remove="menu\views\setup\twopc\twopccapturemethodselection.baml" />
+    <None Remove="menu\views\main\games\fragpunkgameview.baml" />
+    <None Remove="menu\views\main\features\rcs\rcsview.baml" />
+    <None Remove="themes\controls\keybindpickerstyles.baml" />
+    <None Remove="menu\views\main\games\splitgate2gameview.baml" />
+    <None Remove="menu\controls\configitem.baml" />
+    <None Remove="themes\base\fonts.baml" />
+    <None Remove="menu\views\main\games\bloodstrikegameview.baml" />
+    <None Remove="themes\base\colors.baml" />
+    <None Remove="menu\views\main\features\input\unifiedremotetab.baml" />
+    <None Remove="menu\controls\featurealert.baml" />
+    <None Remove="menu\views\main\features\aimbot\aimboteasyprofilecontrol.baml" />
+    <None Remove="menu\views\main\features\input\bladedrivertab.baml" />
+    <None Remove="menu\views\main\features\configsview.baml" />
+    <None Remove="menu\controls\featuretextfield.baml" />
+    <None Remove="menu\views\main\games\strinovagameview.baml" />
+    <None Remove="menu\views\main\games\empulsegameview.baml" />
+    <None Remove="themes\base\converters.baml" />
+    <None Remove="menu\controls\languageselect.baml" />
+    <None Remove="resources\flags\cn.svg" />
+    <None Remove="menu\views\main\features\triggerbot\triggerbotview.baml" />
+    <None Remove="menu\views\main\games\pubggameview.baml" />
+    <None Remove="resources\flags\fi.svg" />
+    <None Remove="fonts\figtree-italic.ttf" />
+    <None Remove="menu\views\main\features\inputview.baml" />
+    <None Remove="themes\controls\labeledsliderstyles.baml" />
+    <None Remove="menu\controls\loading\loadingoverlay.baml" />
+    <None Remove="menu\views\main\games\valorantgameview.baml" />
+    <None Remove="resources\flags\kr.svg" />
+    <None Remove="menu\views\main\features\input\makcutab.baml" />
+    <None Remove="resources\flags\es.svg" />
+    <None Remove="themes\controls\colorpickerstyles.baml" />
+    <None Remove="resources\avalon_big.png" />
+    <None Remove="menu\views\main\games\fortnitegameview.baml" />
+    <None Remove="menu\views\main\features\triggerbot\triggerboteasyprofilecontrol.baml" />
+    <None Remove="themes\generic.baml" />
+    <None Remove="menu\controls\featureboneselection.baml" />
+    <None Remove="menu\controls\hierarchyline.baml" />
+    <None Remove="themes\controls\searchboxstyles.baml" />
+    <None Remove="menu\controls\dialogs\confirmationdialog.baml" />
+    <None Remove="themes\base\brushes.baml" />
+    <None Remove="themes\controls\configcardstyles.baml" />
+    <None Remove="resources\flags\ru.svg" />
+    <None Remove="menu\views\main\games\rustgameview.baml" />
+    <None Remove="menu\controls\priorityitem.baml" />
+    <None Remove="menu\views\main\games\stalcraftxgameview.baml" />
+    <None Remove="themes\controls\comboboxstyles.baml" />
+    <None Remove="themes\controls\lightraystyles.baml" />
+    <None Remove="menu\views\setup\onepc\lookingforgame.baml" />
+    <None Remove="menu\views\setup\compatibilitycheckview.baml" />
+    <None Remove="menu\controls\modelselector.baml" />
+    <None Remove="menu\views\main\games\callofdutygameview.baml" />
+    <None Remove="menu\views\main\games\deadlockgameview.baml" />
+    <None Remove="fodyweavers.xml" />
+    <None Remove="menu\views\main\features\input\defaulttab.baml" />
+    <None Remove="resources\flags\tr.svg" />
+    <None Remove="menu\controls\performancegraph.baml" />
+    <None Remove="resources\flags\us.svg" />
+    <None Remove="menu\views\main\features\aimbot\aimbotprofilecontrol.baml" />
+    <None Remove="menu\controls\patterneditor\patterneditorwindow.baml" />
+    <None Remove="fonts\figtree-regular.ttf" />
+    <None Remove="themes\controls\featurecardstyles.baml" />
+    <None Remove="themes\controls\rangesliderstyles.baml" />
+    <None Remove="menu\views\main\features\flickbot\flickbotprofilecontrol.baml" />
+    <None Remove="themes\controls\statcardstyles.baml" />
+    <None Remove="menu\views\main\games\highguardgameview.baml" />
+    <None Remove="menu\views\setup\onepc\onepcsetupview.baml" />
+    <None Remove="features\impl\readme.txt" />
+    <None Remove="themes\controls\sidepanelstyles.baml" />
+    <None Remove="menu\views\main\games\thefinalsgameview.baml" />
+    <None Remove="menu\views\main\games\halogameview.baml" />
+    <None Remove="themes\controls\textboxstyles.baml" />
+    <None Remove="menu\views\setup\gameselection.baml" />
+    <None Remove="themes\controls\geartogglestyles.baml" />
+    <None Remove="menu\views\main\mainview.baml" />
+    <None Remove="menu\mainwindow.baml" />
+    <None Remove="menu\controls\patterneditor\modifiergroupscontrol.baml" />
+    <None Remove="menu\converters\converters.baml" />
+    <None Remove="menu\views\setup\twopc\twopcsetupview.baml" />
+    <None Remove="menu\views\main\preview\featurepreview.baml" />
+    <None Remove="menu\controls\dialogs\textinputdialog.baml" />
+    <None Remove="themes\base\allicons.baml" />
+    <None Remove="menu\controls\recentconfigspanel.baml" />
+    <None Remove="menu\views\main\games\marathongameview.baml" />
+    <None Remove="menu\controls\featurecolorbutton.baml" />
+    <None Remove="menu\views\main\features\triggerbot\triggerbotprofilecontrol.baml" />
+    <None Remove="menu\views\main\games\apexgameview.baml" />
+    <None Remove="menu\views\main\games\rainbowsixgameview.baml" />
+    <None Remove="themes\controls\scrollbarstyles.baml" />
+    <None Remove="menu\controls\patterneditor\patterneditor.baml" />
+    <None Remove="menu\controls\keybindrecorderbutton.baml" />
+    <None Remove="menu\controls\patterneditor\patterneditorcanvas.baml" />
+    <None Remove="menu\controls\featurecheckbox.baml" />
+    <None Remove="menu\views\main\games\marvelrivalsgameview.baml" />
+    <None Remove="themes\controls\miscstyles.baml" />
+    <None Remove="menu\views\main\features\flickbot\flickbotview.baml" />
+    <None Remove="themes\controls\checkboxstyles.baml" />
+    <None Remove="menu\views\main\1pc\menuview.baml" />
+    <None Remove="menu\controls\dialogs\informationdialog.baml" />
+    <None Remove="menu\views\main\features\aiview.baml" />
+    <None Remove="menu\controls\patterneditor\patterneditortable.baml" />
+    <None Remove="themes\controls\colortogglestyles.baml" />
+    <None Remove="app.baml" />
+    <None Remove="themes\controls\togglegroupstyles.baml" />
+    <None Remove="menu\controls\infodisplay.baml" />
+    <None Remove="menu\views\main\features\rcs\rcsprofilecontrol.baml" />
+    <None Remove="themes\controls\buttonstyles.baml" />
+    <None Remove="fonts\figtree-semibold.ttf" />
+    <None Remove="menu\views\main\preview\sidepanel.baml" />
+    <None Remove="menu\controls\avalontabbutton.baml" />
+    <None Remove="themes\controls\listboxstyles.baml" />
+    <None Remove="menu\views\main\games\universalgameview.baml" />
+    <EmbeddedResource Include="themes\base\sizes.baml" LogicalName="themes/base/sizes.baml" />
+    <EmbeddedResource Include="menu\views\setup\twopc\ndipreview.baml" LogicalName="menu/views/setup/twopc/ndipreview.baml" />
+    <EmbeddedResource Include="menu\views\main\games\robloxgameview.baml" LogicalName="menu/views/main/games/robloxgameview.baml" />
+    <EmbeddedResource Include="menu\views\main\features\aimbot\aimbotview.baml" LogicalName="menu/views/main/features/aimbot/aimbotview.baml" />
+    <EmbeddedResource Include="menu\views\setup\setupkindselection.baml" LogicalName="menu/views/setup/setupkindselection.baml" />
+    <EmbeddedResource Include="menu\views\setup\twopc\capturecardpreview.baml" LogicalName="menu/views/setup/twopc/capturecardpreview.baml" />
+    <EmbeddedResource Include="fonts\figtree-medium.ttf" LogicalName="fonts/figtree-medium.ttf" />
+    <EmbeddedResource Include="menu\views\main\features\input\inputdirectortab.baml" LogicalName="menu/views/main/features/input/inputdirectortab.baml" />
+    <EmbeddedResource Include="menu\views\main\games\overwatchgameview.baml" LogicalName="menu/views/main/games/overwatchgameview.baml" />
+    <EmbeddedResource Include="menu\views\setup\twopc\ndisourceselection.baml" LogicalName="menu/views/setup/twopc/ndisourceselection.baml" />
+    <EmbeddedResource Include="menu\views\loadingview.baml" LogicalName="menu/views/loadingview.baml" />
+    <EmbeddedResource Include="menu\controls\featurecardstyle.baml" LogicalName="menu/controls/featurecardstyle.baml" />
+    <EmbeddedResource Include="themes\controls\contextmenustyles.baml" LogicalName="themes/controls/contextmenustyles.baml" />
+    <EmbeddedResource Include="notes.txt" LogicalName="notes.txt" />
+    <EmbeddedResource Include="menu\views\main\games\battlefieldgameview.baml" LogicalName="menu/views/main/games/battlefieldgameview.baml" />
+    <EmbeddedResource Include="themes\controls\viewtabstyles.baml" LogicalName="themes/controls/viewtabstyles.baml" />
+    <EmbeddedResource Include="themes\controls\modalstyles.baml" LogicalName="themes/controls/modalstyles.baml" />
+    <EmbeddedResource Include="menu\views\main\features\input\kmbprotab.baml" LogicalName="menu/views/main/features/input/kmbprotab.baml" />
+    <EmbeddedResource Include="menu\controls\dialogs\hrefdialog.baml" LogicalName="menu/controls/dialogs/hrefdialog.baml" />
+    <EmbeddedResource Include="menu\views\setup\twopc\capturecarddeviceselection.baml" LogicalName="menu/views/setup/twopc/capturecarddeviceselection.baml" />
+    <EmbeddedResource Include="fonts\figtree-bold.ttf" LogicalName="fonts/figtree-bold.ttf" />
+    <EmbeddedResource Include="menu\controls\dialogs\acceptdialog.baml" LogicalName="menu/controls/dialogs/acceptdialog.baml" />
+    <EmbeddedResource Include="menu\views\main\games\cs2gameview.baml" LogicalName="menu/views/main/games/cs2gameview.baml" />
+    <EmbeddedResource Include="menu\views\main\features\input\kmnettab.baml" LogicalName="menu/views/main/features/input/kmnettab.baml" />
+    <EmbeddedResource Include="menu\controls\performancepanel.baml" LogicalName="menu/controls/performancepanel.baml" />
+    <EmbeddedResource Include="menu\views\main\features\visualsview.baml" LogicalName="menu/views/main/features/visualsview.baml" />
+    <EmbeddedResource Include="menu\controls\featureslider.baml" LogicalName="menu/controls/featureslider.baml" />
+    <EmbeddedResource Include="menu\controls\dialogs\restartdialog.baml" LogicalName="menu/controls/dialogs/restartdialog.baml" />
+    <EmbeddedResource Include="fonts\figtree-light.ttf" LogicalName="fonts/figtree-light.ttf" />
+    <EmbeddedResource Include="menu\views\setup\onepc\processselectionview.baml" LogicalName="menu/views/setup/onepc/processselectionview.baml" />
+    <EmbeddedResource Include="menu\views\main\features\input\xppentab.baml" LogicalName="menu/views/main/features/input/xppentab.baml" />
+    <EmbeddedResource Include="themes\controls\sliderstyles.baml" LogicalName="themes/controls/sliderstyles.baml" />
+    <EmbeddedResource Include="themes\controls\filepickerstyles.baml" LogicalName="themes/controls/filepickerstyles.baml" />
+    <EmbeddedResource Include="themes\controls\loadingspinnerstyles.baml" LogicalName="themes/controls/loadingspinnerstyles.baml" />
+    <EmbeddedResource Include="resources\logo.png" LogicalName="resources/logo.png" />
+    <EmbeddedResource Include="menu\views\setup\twopc\calibrationdialog.baml" LogicalName="menu/views/setup/twopc/calibrationdialog.baml" />
+    <EmbeddedResource Include="menu\views\setup\twopc\twopccapturemethodselection.baml" LogicalName="menu/views/setup/twopc/twopccapturemethodselection.baml" />
+    <EmbeddedResource Include="menu\views\main\games\fragpunkgameview.baml" LogicalName="menu/views/main/games/fragpunkgameview.baml" />
+    <EmbeddedResource Include="menu\views\main\features\rcs\rcsview.baml" LogicalName="menu/views/main/features/rcs/rcsview.baml" />
+    <EmbeddedResource Include="themes\controls\keybindpickerstyles.baml" LogicalName="themes/controls/keybindpickerstyles.baml" />
+    <EmbeddedResource Include="menu\views\main\games\splitgate2gameview.baml" LogicalName="menu/views/main/games/splitgate2gameview.baml" />
+    <EmbeddedResource Include="menu\controls\configitem.baml" LogicalName="menu/controls/configitem.baml" />
+    <EmbeddedResource Include="themes\base\fonts.baml" LogicalName="themes/base/fonts.baml" />
+    <EmbeddedResource Include="menu\views\main\games\bloodstrikegameview.baml" LogicalName="menu/views/main/games/bloodstrikegameview.baml" />
+    <EmbeddedResource Include="themes\base\colors.baml" LogicalName="themes/base/colors.baml" />
+    <EmbeddedResource Include="menu\views\main\features\input\unifiedremotetab.baml" LogicalName="menu/views/main/features/input/unifiedremotetab.baml" />
+    <EmbeddedResource Include="menu\controls\featurealert.baml" LogicalName="menu/controls/featurealert.baml" />
+    <EmbeddedResource Include="menu\views\main\features\aimbot\aimboteasyprofilecontrol.baml" LogicalName="menu/views/main/features/aimbot/aimboteasyprofilecontrol.baml" />
+    <EmbeddedResource Include="menu\views\main\features\input\bladedrivertab.baml" LogicalName="menu/views/main/features/input/bladedrivertab.baml" />
+    <EmbeddedResource Include="menu\views\main\features\configsview.baml" LogicalName="menu/views/main/features/configsview.baml" />
+    <EmbeddedResource Include="menu\controls\featuretextfield.baml" LogicalName="menu/controls/featuretextfield.baml" />
+    <EmbeddedResource Include="menu\views\main\games\strinovagameview.baml" LogicalName="menu/views/main/games/strinovagameview.baml" />
+    <EmbeddedResource Include="menu\views\main\games\empulsegameview.baml" LogicalName="menu/views/main/games/empulsegameview.baml" />
+    <EmbeddedResource Include="themes\base\converters.baml" LogicalName="themes/base/converters.baml" />
+    <EmbeddedResource Include="menu\controls\languageselect.baml" LogicalName="menu/controls/languageselect.baml" />
+    <EmbeddedResource Include="resources\flags\cn.svg" LogicalName="resources/flags/cn.svg" />
+    <EmbeddedResource Include="menu\views\main\features\triggerbot\triggerbotview.baml" LogicalName="menu/views/main/features/triggerbot/triggerbotview.baml" />
+    <EmbeddedResource Include="menu\views\main\games\pubggameview.baml" LogicalName="menu/views/main/games/pubggameview.baml" />
+    <EmbeddedResource Include="resources\flags\fi.svg" LogicalName="resources/flags/fi.svg" />
+    <EmbeddedResource Include="fonts\figtree-italic.ttf" LogicalName="fonts/figtree-italic.ttf" />
+    <EmbeddedResource Include="menu\views\main\features\inputview.baml" LogicalName="menu/views/main/features/inputview.baml" />
+    <EmbeddedResource Include="themes\controls\labeledsliderstyles.baml" LogicalName="themes/controls/labeledsliderstyles.baml" />
+    <EmbeddedResource Include="menu\controls\loading\loadingoverlay.baml" LogicalName="menu/controls/loading/loadingoverlay.baml" />
+    <EmbeddedResource Include="menu\views\main\games\valorantgameview.baml" LogicalName="menu/views/main/games/valorantgameview.baml" />
+    <EmbeddedResource Include="resources\flags\kr.svg" LogicalName="resources/flags/kr.svg" />
+    <EmbeddedResource Include="menu\views\main\features\input\makcutab.baml" LogicalName="menu/views/main/features/input/makcutab.baml" />
+    <EmbeddedResource Include="resources\flags\es.svg" LogicalName="resources/flags/es.svg" />
+    <EmbeddedResource Include="themes\controls\colorpickerstyles.baml" LogicalName="themes/controls/colorpickerstyles.baml" />
+    <EmbeddedResource Include="resources\avalon_big.png" LogicalName="resources/avalon_big.png" />
+    <EmbeddedResource Include="menu\views\main\games\fortnitegameview.baml" LogicalName="menu/views/main/games/fortnitegameview.baml" />
+    <EmbeddedResource Include="menu\views\main\features\triggerbot\triggerboteasyprofilecontrol.baml" LogicalName="menu/views/main/features/triggerbot/triggerboteasyprofilecontrol.baml" />
+    <EmbeddedResource Include="themes\generic.baml" LogicalName="themes/generic.baml" />
+    <EmbeddedResource Include="menu\controls\featureboneselection.baml" LogicalName="menu/controls/featureboneselection.baml" />
+    <EmbeddedResource Include="menu\controls\hierarchyline.baml" LogicalName="menu/controls/hierarchyline.baml" />
+    <EmbeddedResource Include="themes\controls\searchboxstyles.baml" LogicalName="themes/controls/searchboxstyles.baml" />
+    <EmbeddedResource Include="menu\controls\dialogs\confirmationdialog.baml" LogicalName="menu/controls/dialogs/confirmationdialog.baml" />
+    <EmbeddedResource Include="themes\base\brushes.baml" LogicalName="themes/base/brushes.baml" />
+    <EmbeddedResource Include="themes\controls\configcardstyles.baml" LogicalName="themes/controls/configcardstyles.baml" />
+    <EmbeddedResource Include="resources\flags\ru.svg" LogicalName="resources/flags/ru.svg" />
+    <EmbeddedResource Include="menu\views\main\games\rustgameview.baml" LogicalName="menu/views/main/games/rustgameview.baml" />
+    <EmbeddedResource Include="menu\controls\priorityitem.baml" LogicalName="menu/controls/priorityitem.baml" />
+    <EmbeddedResource Include="menu\views\main\games\stalcraftxgameview.baml" LogicalName="menu/views/main/games/stalcraftxgameview.baml" />
+    <EmbeddedResource Include="themes\controls\comboboxstyles.baml" LogicalName="themes/controls/comboboxstyles.baml" />
+    <EmbeddedResource Include="themes\controls\lightraystyles.baml" LogicalName="themes/controls/lightraystyles.baml" />
+    <EmbeddedResource Include="menu\views\setup\onepc\lookingforgame.baml" LogicalName="menu/views/setup/onepc/lookingforgame.baml" />
+    <EmbeddedResource Include="menu\views\setup\compatibilitycheckview.baml" LogicalName="menu/views/setup/compatibilitycheckview.baml" />
+    <EmbeddedResource Include="menu\controls\modelselector.baml" LogicalName="menu/controls/modelselector.baml" />
+    <EmbeddedResource Include="menu\views\main\games\callofdutygameview.baml" LogicalName="menu/views/main/games/callofdutygameview.baml" />
+    <EmbeddedResource Include="menu\views\main\games\deadlockgameview.baml" LogicalName="menu/views/main/games/deadlockgameview.baml" />
+    <EmbeddedResource Include="fodyweavers.xml" LogicalName="fodyweavers.xml" />
+    <EmbeddedResource Include="menu\views\main\features\input\defaulttab.baml" LogicalName="menu/views/main/features/input/defaulttab.baml" />
+    <EmbeddedResource Include="resources\flags\tr.svg" LogicalName="resources/flags/tr.svg" />
+    <EmbeddedResource Include="menu\controls\performancegraph.baml" LogicalName="menu/controls/performancegraph.baml" />
+    <EmbeddedResource Include="resources\flags\us.svg" LogicalName="resources/flags/us.svg" />
+    <EmbeddedResource Include="menu\views\main\features\aimbot\aimbotprofilecontrol.baml" LogicalName="menu/views/main/features/aimbot/aimbotprofilecontrol.baml" />
+    <EmbeddedResource Include="menu\controls\patterneditor\patterneditorwindow.baml" LogicalName="menu/controls/patterneditor/patterneditorwindow.baml" />
+    <EmbeddedResource Include="fonts\figtree-regular.ttf" LogicalName="fonts/figtree-regular.ttf" />
+    <EmbeddedResource Include="themes\controls\featurecardstyles.baml" LogicalName="themes/controls/featurecardstyles.baml" />
+    <EmbeddedResource Include="themes\controls\rangesliderstyles.baml" LogicalName="themes/controls/rangesliderstyles.baml" />
+    <EmbeddedResource Include="menu\views\main\features\flickbot\flickbotprofilecontrol.baml" LogicalName="menu/views/main/features/flickbot/flickbotprofilecontrol.baml" />
+    <EmbeddedResource Include="themes\controls\statcardstyles.baml" LogicalName="themes/controls/statcardstyles.baml" />
+    <EmbeddedResource Include="menu\views\main\games\highguardgameview.baml" LogicalName="menu/views/main/games/highguardgameview.baml" />
+    <EmbeddedResource Include="menu\views\setup\onepc\onepcsetupview.baml" LogicalName="menu/views/setup/onepc/onepcsetupview.baml" />
+    <EmbeddedResource Include="features\impl\readme.txt" LogicalName="features/impl/readme.txt" />
+    <EmbeddedResource Include="themes\controls\sidepanelstyles.baml" LogicalName="themes/controls/sidepanelstyles.baml" />
+    <EmbeddedResource Include="menu\views\main\games\thefinalsgameview.baml" LogicalName="menu/views/main/games/thefinalsgameview.baml" />
+    <EmbeddedResource Include="menu\views\main\games\halogameview.baml" LogicalName="menu/views/main/games/halogameview.baml" />
+    <EmbeddedResource Include="themes\controls\textboxstyles.baml" LogicalName="themes/controls/textboxstyles.baml" />
+    <EmbeddedResource Include="menu\views\setup\gameselection.baml" LogicalName="menu/views/setup/gameselection.baml" />
+    <EmbeddedResource Include="themes\controls\geartogglestyles.baml" LogicalName="themes/controls/geartogglestyles.baml" />
+    <EmbeddedResource Include="menu\views\main\mainview.baml" LogicalName="menu/views/main/mainview.baml" />
+    <EmbeddedResource Include="menu\mainwindow.baml" LogicalName="menu/mainwindow.baml" />
+    <EmbeddedResource Include="menu\controls\patterneditor\modifiergroupscontrol.baml" LogicalName="menu/controls/patterneditor/modifiergroupscontrol.baml" />
+    <EmbeddedResource Include="menu\converters\converters.baml" LogicalName="menu/converters/converters.baml" />
+    <EmbeddedResource Include="menu\views\setup\twopc\twopcsetupview.baml" LogicalName="menu/views/setup/twopc/twopcsetupview.baml" />
+    <EmbeddedResource Include="menu\views\main\preview\featurepreview.baml" LogicalName="menu/views/main/preview/featurepreview.baml" />
+    <EmbeddedResource Include="menu\controls\dialogs\textinputdialog.baml" LogicalName="menu/controls/dialogs/textinputdialog.baml" />
+    <EmbeddedResource Include="themes\base\allicons.baml" LogicalName="themes/base/allicons.baml" />
+    <EmbeddedResource Include="menu\controls\recentconfigspanel.baml" LogicalName="menu/controls/recentconfigspanel.baml" />
+    <EmbeddedResource Include="menu\views\main\games\marathongameview.baml" LogicalName="menu/views/main/games/marathongameview.baml" />
+    <EmbeddedResource Include="menu\controls\featurecolorbutton.baml" LogicalName="menu/controls/featurecolorbutton.baml" />
+    <EmbeddedResource Include="menu\views\main\features\triggerbot\triggerbotprofilecontrol.baml" LogicalName="menu/views/main/features/triggerbot/triggerbotprofilecontrol.baml" />
+    <EmbeddedResource Include="menu\views\main\games\apexgameview.baml" LogicalName="menu/views/main/games/apexgameview.baml" />
+    <EmbeddedResource Include="menu\views\main\games\rainbowsixgameview.baml" LogicalName="menu/views/main/games/rainbowsixgameview.baml" />
+    <EmbeddedResource Include="themes\controls\scrollbarstyles.baml" LogicalName="themes/controls/scrollbarstyles.baml" />
+    <EmbeddedResource Include="menu\controls\patterneditor\patterneditor.baml" LogicalName="menu/controls/patterneditor/patterneditor.baml" />
+    <EmbeddedResource Include="menu\controls\keybindrecorderbutton.baml" LogicalName="menu/controls/keybindrecorderbutton.baml" />
+    <EmbeddedResource Include="menu\controls\patterneditor\patterneditorcanvas.baml" LogicalName="menu/controls/patterneditor/patterneditorcanvas.baml" />
+    <EmbeddedResource Include="menu\controls\featurecheckbox.baml" LogicalName="menu/controls/featurecheckbox.baml" />
+    <EmbeddedResource Include="menu\views\main\games\marvelrivalsgameview.baml" LogicalName="menu/views/main/games/marvelrivalsgameview.baml" />
+    <EmbeddedResource Include="themes\controls\miscstyles.baml" LogicalName="themes/controls/miscstyles.baml" />
+    <EmbeddedResource Include="menu\views\main\features\flickbot\flickbotview.baml" LogicalName="menu/views/main/features/flickbot/flickbotview.baml" />
+    <EmbeddedResource Include="themes\controls\checkboxstyles.baml" LogicalName="themes/controls/checkboxstyles.baml" />
+    <EmbeddedResource Include="menu\views\main\1pc\menuview.baml" LogicalName="menu/views/main/1pc/menuview.baml" />
+    <EmbeddedResource Include="menu\controls\dialogs\informationdialog.baml" LogicalName="menu/controls/dialogs/informationdialog.baml" />
+    <EmbeddedResource Include="menu\views\main\features\aiview.baml" LogicalName="menu/views/main/features/aiview.baml" />
+    <EmbeddedResource Include="menu\controls\patterneditor\patterneditortable.baml" LogicalName="menu/controls/patterneditor/patterneditortable.baml" />
+    <EmbeddedResource Include="themes\controls\colortogglestyles.baml" LogicalName="themes/controls/colortogglestyles.baml" />
+    <EmbeddedResource Include="app.baml" LogicalName="app.baml" />
+    <EmbeddedResource Include="themes\controls\togglegroupstyles.baml" LogicalName="themes/controls/togglegroupstyles.baml" />
+    <EmbeddedResource Include="menu\controls\infodisplay.baml" LogicalName="menu/controls/infodisplay.baml" />
+    <EmbeddedResource Include="menu\views\main\features\rcs\rcsprofilecontrol.baml" LogicalName="menu/views/main/features/rcs/rcsprofilecontrol.baml" />
+    <EmbeddedResource Include="themes\controls\buttonstyles.baml" LogicalName="themes/controls/buttonstyles.baml" />
+    <EmbeddedResource Include="fonts\figtree-semibold.ttf" LogicalName="fonts/figtree-semibold.ttf" />
+    <EmbeddedResource Include="menu\views\main\preview\sidepanel.baml" LogicalName="menu/views/main/preview/sidepanel.baml" />
+    <EmbeddedResource Include="menu\controls\avalontabbutton.baml" LogicalName="menu/controls/avalontabbutton.baml" />
+    <EmbeddedResource Include="themes\controls\listboxstyles.baml" LogicalName="themes/controls/listboxstyles.baml" />
+    <EmbeddedResource Include="menu\views\main\games\universalgameview.baml" LogicalName="menu/views/main/games/universalgameview.baml" />
+  </ItemGroup>
+  <ItemGroup />
+</Project>
